@@ -1,18 +1,22 @@
-# 📁 UVM Project 
+# 📂 UVM Project 
 
-Choose a directory below to explore the project components:
+Select a workspace module below to browse the source files:
 
-<p align="center">
-  <a href="./design">
-    <button style="background-color: #007ACC; color: white; border: none; padding: 12px 24px; font-size: 16px; font-weight: bold; border-radius: 6px; cursor: pointer; margin-right: 15px;">
-      📁 Explore Design Folder
-    </button>
-  </a>
-  <a href="./verification">
-    <button style="background-color: #E44D26; color: white; border: none; padding: 12px 24px; font-size: 16px; font-weight: bold; border-radius: 6px; cursor: pointer;">
-      📁 Explore Verification Folder
-    </button>
-  </a>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top" style="border: 1px solid #ccc; padding: 20px; border-radius: 6px;">
+      <h3>📁 Design Core</h3>
+      <p>Source code and RTL design architecture files.</p>
+      <br />
+      <a href="./design"><b>👉 Open Design Folder</b></a>
+    </td>
+    <td width="50%" align="center" valign="top" style="border: 1px solid #ccc; padding: 20px; border-radius: 6px;">
+      <h3>🛠️ Verification Env</h3>
+      <p>UVM testbenches, components, and scripts.</p>
+      <br />
+      <a href="./verification"><b>👉 Open Verification Folder</b></a>
+    </td>
+  </tr>
+</table>
 
 ---
