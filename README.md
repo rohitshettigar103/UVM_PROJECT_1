@@ -1,18 +1,6 @@
-# 📚 My First UVM Project
+# 📂 UVM Project Directory
 
-Welcome to my repository! This is my very first project where I am learning how to use **SystemVerilog** and **UVM (Universal Verification Methodology)** to test digital hardware designs.
+Click the links below to navigate through the project folders:
 
----
-
-## 🎯 Current Project Goals
-* [x] Set up the GitHub repository structure
-* [ ] Write a simple digital design (like an Adder or a Mux)
-* [ ] Build a basic UVM testbench environment to test it
-* [ ] Run my first simulation and check the results
-
-## 📂 Folders in this Project
-* **📁 design/**: This folder will hold the hardware code I want to test.
-* **📁 verification/**: This folder will hold my UVM testbench components.
-
----
-💡 *I am currently learning UVM. Follow along as I build this project from scratch!*
+* ➡️ **[Go to Design Folder](./design)** — Contains the RTL code and hardware files.
+* ➡️ **[Go to Verification Folder](./verification)** — Contains the UVM testbench files.
